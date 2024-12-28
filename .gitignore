@@ -1,0 +1,18 @@
+Logs
+~$*
+__pycache__
+*.md
+chromedriver.exe
+testing result.txt
+
+chromedriver.exe
+__pycache__
+
+
+Logs
+Documents
+env
+outputs
+Reports
+
+screte_key.py
